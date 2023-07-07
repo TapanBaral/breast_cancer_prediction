@@ -1,7 +1,8 @@
 # Breast Cancer Predictor app
 
-## This a app
-use to it
+## Overview
+A streamlit app designed to diagnose breast cancer using machine learning.
 
-## I Tested it
-https://breastcancerprediction-cqi1j6yd36.streamlit.app/
+## Installation
+
+[Link to the live app](https://breastcancerprediction-cqi1j6yd36.streamlit.app/)
