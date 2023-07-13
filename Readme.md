@@ -12,11 +12,3 @@ pip install -r requirements.txt
 ```
 
 [Link to the live app](https://breastcancerprediction-cqi1j6yd36.streamlit.app/)
-
-```mermaid
-graph LR
-A[Hard edge] -->B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
-```
